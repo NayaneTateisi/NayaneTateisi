@@ -1,7 +1,7 @@
 ### Olá! Eu sou a Nayane Tateisi 👋
 
 <p>🖥️ Analista de Projetos<br/>
-🎓 Engenharia de Controle e Automação - UTFPR<br/>
+🎓 Estudante de Engenharia de Controle e Automação - UTFPR<br/>
 🔭 Pesquiso caracterização de tráfego de redes e detecção de anomalias<br/>
 🌱 Entusiasta em aṕrendizado de máquina<p>
 
