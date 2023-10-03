@@ -1,8 +1,8 @@
 ### Olá! Eu sou a Nayane Tateisi 👋
 
-<p>🖥️ Analista de inteligência de negócios<br/>
+<p>🖥️ Analista de Produtos <br/>
 🎓 Engenheira de Controle e Automação - UTFPR<br/>
-🔭 Pesquiso caracterização de tráfego de redes e detecção de anomalias<br/>
+🔭 Desbravando as fronteiras da análise de indicadores, modelagem e tomada de decisões estratégicas <br/>
 🌱 Entusiasta em aṕrendizado de máquina<p>
   
   <div style="display: inline_block"><br>
