@@ -2,7 +2,7 @@
 
 <p>🖥️ Analista de Produtos <br/>
 🎓 Engenheira de Controle e Automação - UTFPR<br/>
-🌱 Pós-graduanda em Inteligência Artificial - UTFPR<p>
+🌱 Pós-graduanda em Inteligência Artificial - UTFPR <br/>
 🔭 Desbravando as fronteiras da análise de indicadores, modelagem e tomada de decisões estratégicas <br/>
 
   
