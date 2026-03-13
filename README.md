@@ -2,8 +2,9 @@
 
 <p>
 🎓 Engenheira de Controle e Automação - UTFPR<br/>
-🌱 Pós-graduanda em Inteligência Artificial - UTFPR <br/>
+🌱 Especialista em Inteligência Artificial - UTFPR <br/>
 🔭 Desbravando as fronteiras da análise de indicadores, modelagem e tomada de decisões estratégicas <br/>
+🔎 Entusiasta em diagnóstico de dados e modelos, com foco em viés e outliers <br/>
 
   
   <div style="display: inline_block"><br>
@@ -13,7 +14,7 @@
   <img align="center" alt="Nana-C#" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-line.svg">
   <img align="center" alt="Nana-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Nana-Linux" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg">
-  <img align="center" alt="Nana-Figma" height="30" width="40" src="https://camo.githubusercontent.com/e5c1b4b7d59d58f0607fede5dd922211257cd09031f3c2370308ab4e34356299/68747470733a2f2f7777772e766563746f726c6f676f2e7a6f6e652f6c6f676f732f6669676d612f6669676d612d69636f6e2e737667"> 
+  <img align="center" alt="Nana-Figma" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg"> 
 </div>
   
   ##
